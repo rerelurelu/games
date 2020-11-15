@@ -1,4 +1,9 @@
 .vscode/
 
+# environments
+.venv/
+.python-version
+poetry.lock
+
 # image data
 *.jpg
